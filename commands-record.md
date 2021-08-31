@@ -19,3 +19,4 @@ commands
   - add
     - origin
       - \<SSH pattern of github\>
+- git merge
