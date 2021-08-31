@@ -15,3 +15,7 @@ commands
 - git reflog
 - git restore
   - --staged
+- git remote
+  - add
+    - origin
+      - \<SSH pattern of github\>
