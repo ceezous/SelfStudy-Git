@@ -28,3 +28,4 @@ commands
 - git branch
   - \<branch_name\>
   - -a
+- git merge
