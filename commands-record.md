@@ -2,6 +2,8 @@ commands
 - git add
 - git commit 
 - git push
+  - origin
+    - master
 - git status
 - git diff
 - git log
@@ -19,3 +21,10 @@ commands
   - add
     - origin
       - \<SSH pattern of github\>
+  - -v
+- git checkout
+  - \<branch_name\>
+  - -b \<branch_name\>
+- git branch
+  - \<branch_name\>
+  - -a
