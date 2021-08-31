@@ -14,3 +14,4 @@ commands
     - 36e026b
 - git reflog
 - git restore
+  - --staged
