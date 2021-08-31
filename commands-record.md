@@ -8,6 +8,8 @@ commands
 - git diff
 - git log
   - --pretty=oneline
+  - --graph
+  - --abbrev-commit
 - git reset
   - --hard
     - HEAD^
@@ -22,10 +24,13 @@ commands
     - origin
       - \<SSH pattern of github\>
   - -v
-- git checkout
+- git checkout (deprecated)
   - \<branch_name\>
   - -b \<branch_name\>
 - git branch
   - \<branch_name\>
-  - -a
+  - -a (all)
+  - -d (delete)
 - git merge
+- git switch
+  - -c (create)
