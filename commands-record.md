@@ -13,3 +13,4 @@ commands
     - HEAD~100
     - 36e026b
 - git reflog
+- git restore
